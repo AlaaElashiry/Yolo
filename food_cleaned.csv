@@ -1,0 +1,433 @@
+Food_Name,Category,Calories_per_100g,Protein_g,Fat_g,Carbs_g,Reference_Weight,Reference_Size
+Carrot,Vegetables,41.0,0.9,0.2,10.0,100.0,110.0
+Apple,Fruits,52.0,0.3,0.2,14.0,250.0,110.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,250.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,150.0,110.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,150.0,70.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,200.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,250.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,100.0,110.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,250.0,90.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,250.0,110.0
+Butter,Dairy,717.0,0.9,81.0,0.1,200.0,50.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,250.0,50.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,100.0,70.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,100.0,90.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,200.0,50.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,200.0,50.0
+Butter,Dairy,717.0,0.9,81.0,0.1,200.0,70.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,250.0,110.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,200.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,200.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,200.0,70.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,250.0,110.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,100.0,110.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,200.0,50.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,250.0,70.0
+Banana,Fruits,89.0,1.1,0.3,23.0,150.0,110.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,250.0,50.0
+Cod,Seafood,82.0,18.0,0.7,0.0,150.0,110.0
+Egg,Dairy,155.0,13.0,11.0,1.1,250.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,200.0,110.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,100.0,70.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,200.0,90.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,100.0,70.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,200.0,110.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,100.0,50.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,150.0,90.0
+Banana,Fruits,89.0,1.1,0.3,23.0,100.0,50.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,150.0,50.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,250.0,90.0
+Egg,Dairy,155.0,13.0,11.0,1.1,250.0,70.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,100.0,90.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,250.0,90.0
+Banana,Fruits,89.0,1.1,0.3,23.0,100.0,90.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,100.0,50.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,150.0,70.0
+Butter,Dairy,717.0,0.9,81.0,0.1,100.0,90.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,200.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,250.0,90.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,200.0,50.0
+Crab,Seafood,97.0,19.0,1.5,0.0,200.0,90.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,150.0,90.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,150.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,100.0,70.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,250.0,90.0
+Crab,Seafood,97.0,19.0,1.5,0.0,250.0,90.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,150.0,110.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,100.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,150.0,70.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,250.0,90.0
+Crab,Seafood,97.0,19.0,1.5,0.0,150.0,50.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,150.0,110.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,100.0,90.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,250.0,50.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,200.0,70.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,200.0,50.0
+Cod,Seafood,82.0,18.0,0.7,0.0,100.0,90.0
+Egg,Dairy,155.0,13.0,11.0,1.1,150.0,110.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,250.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,150.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,100.0,70.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,250.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,200.0,50.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,200.0,90.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,150.0,50.0
+Crab,Seafood,97.0,19.0,1.5,0.0,150.0,110.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,200.0,70.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,200.0,50.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,200.0,90.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,150.0,90.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,150.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,100.0,50.0
+Butter,Dairy,717.0,0.9,81.0,0.1,150.0,90.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,150.0,50.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,150.0,110.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,150.0,70.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,150.0,70.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,250.0,70.0
+Butter,Dairy,717.0,0.9,81.0,0.1,200.0,110.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,150.0,90.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,100.0,110.0
+Banana,Fruits,89.0,1.1,0.3,23.0,250.0,70.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,250.0,110.0
+Cod,Seafood,82.0,18.0,0.7,0.0,200.0,90.0
+Egg,Dairy,155.0,13.0,11.0,1.1,250.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,200.0,90.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,250.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,250.0,90.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,250.0,70.0
+Egg,Dairy,155.0,13.0,11.0,1.1,200.0,110.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,100.0,90.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,150.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,150.0,50.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,100.0,50.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,200.0,90.0
+Milk,Dairy,42.0,3.4,1.0,5.0,100.0,50.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,250.0,70.0
+Orange,Fruits,47.0,0.9,0.1,12.0,250.0,70.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,200.0,90.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,100.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,100.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,200.0,70.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,200.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,250.0,50.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,250.0,90.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,200.0,90.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,150.0,70.0
+Cod,Seafood,82.0,18.0,0.7,0.0,200.0,110.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,150.0,70.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,200.0,70.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,100.0,90.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,250.0,70.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,200.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,100.0,50.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,200.0,110.0
+Apple,Fruits,52.0,0.3,0.2,14.0,150.0,50.0
+Cod,Seafood,82.0,18.0,0.7,0.0,200.0,70.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,100.0,90.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,150.0,50.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,150.0,90.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,200.0,50.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,250.0,50.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,150.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,150.0,90.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,200.0,90.0
+Apple,Fruits,52.0,0.3,0.2,14.0,100.0,90.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,150.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,250.0,50.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,100.0,70.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,150.0,70.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,150.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,150.0,90.0
+Milk,Dairy,42.0,3.4,1.0,5.0,150.0,70.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,250.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,250.0,110.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,100.0,50.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,200.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,150.0,90.0
+Milk,Dairy,42.0,3.4,1.0,5.0,200.0,70.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,250.0,90.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,250.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,150.0,50.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,100.0,70.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,250.0,50.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,150.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,100.0,70.0
+Butter,Dairy,717.0,0.9,81.0,0.1,250.0,70.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,100.0,110.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,100.0,70.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,200.0,110.0
+Crab,Seafood,97.0,19.0,1.5,0.0,100.0,90.0
+Milk,Dairy,42.0,3.4,1.0,5.0,250.0,90.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,100.0,70.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,200.0,90.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,150.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,100.0,110.0
+Butter,Dairy,717.0,0.9,81.0,0.1,100.0,110.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,150.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,250.0,70.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,100.0,110.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,200.0,110.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,100.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,200.0,50.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,150.0,110.0
+Orange,Fruits,47.0,0.9,0.1,12.0,150.0,110.0
+Banana,Fruits,89.0,1.1,0.3,23.0,200.0,90.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,150.0,90.0
+Crab,Seafood,97.0,19.0,1.5,0.0,200.0,50.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,100.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,150.0,70.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,250.0,70.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,100.0,50.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,100.0,90.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,200.0,90.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,150.0,50.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,150.0,50.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,100.0,70.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,150.0,50.0
+Butter,Dairy,717.0,0.9,81.0,0.1,200.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,250.0,50.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,200.0,110.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,100.0,110.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,200.0,90.0
+Butter,Dairy,717.0,0.9,81.0,0.1,150.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,100.0,110.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,250.0,110.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,250.0,50.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,100.0,50.0
+Butter,Dairy,717.0,0.9,81.0,0.1,250.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,100.0,110.0
+Milk,Dairy,42.0,3.4,1.0,5.0,150.0,50.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,200.0,90.0
+Milk,Dairy,42.0,3.4,1.0,5.0,100.0,70.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,100.0,90.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,250.0,70.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,200.0,70.0
+Cod,Seafood,82.0,18.0,0.7,0.0,250.0,110.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,150.0,70.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,100.0,90.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,200.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,150.0,110.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,100.0,70.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,100.0,90.0
+Butter,Dairy,717.0,0.9,81.0,0.1,250.0,110.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,150.0,110.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,150.0,90.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,200.0,70.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,150.0,110.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,250.0,50.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,250.0,90.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,150.0,50.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,250.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,100.0,90.0
+Orange,Fruits,47.0,0.9,0.1,12.0,200.0,50.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,250.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,250.0,50.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,150.0,70.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,100.0,90.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,150.0,110.0
+Butter,Dairy,717.0,0.9,81.0,0.1,150.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,200.0,70.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,250.0,90.0
+Apple,Fruits,52.0,0.3,0.2,14.0,250.0,90.0
+Egg,Dairy,155.0,13.0,11.0,1.1,150.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,150.0,70.0
+Apple,Fruits,52.0,0.3,0.2,14.0,100.0,110.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,100.0,70.0
+Crab,Seafood,97.0,19.0,1.5,0.0,250.0,110.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,100.0,70.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,200.0,110.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,150.0,110.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,150.0,110.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,100.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,150.0,50.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,150.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,200.0,110.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,150.0,70.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,200.0,50.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,100.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,150.0,90.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,250.0,90.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,150.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,250.0,110.0
+Apple,Fruits,52.0,0.3,0.2,14.0,100.0,50.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,150.0,110.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,150.0,110.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,250.0,70.0
+Cod,Seafood,82.0,18.0,0.7,0.0,250.0,70.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,150.0,90.0
+Apple,Fruits,52.0,0.3,0.2,14.0,150.0,90.0
+Crab,Seafood,97.0,19.0,1.5,0.0,200.0,110.0
+Apple,Fruits,52.0,0.3,0.2,14.0,150.0,70.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,150.0,50.0
+Banana,Fruits,89.0,1.1,0.3,23.0,200.0,50.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,200.0,70.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,200.0,50.0
+Apple,Fruits,52.0,0.3,0.2,14.0,150.0,110.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,150.0,70.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,150.0,90.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,150.0,110.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,200.0,110.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,200.0,90.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,200.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,150.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,100.0,70.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,100.0,90.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,100.0,110.0
+Milk,Dairy,42.0,3.4,1.0,5.0,100.0,110.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,250.0,50.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,250.0,50.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,150.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,250.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,250.0,50.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,200.0,50.0
+Crab,Seafood,97.0,19.0,1.5,0.0,100.0,70.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,100.0,90.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,150.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,200.0,110.0
+Orange,Fruits,47.0,0.9,0.1,12.0,200.0,90.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,100.0,90.0
+Butter,Dairy,717.0,0.9,81.0,0.1,100.0,50.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,100.0,50.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,100.0,90.0
+Crab,Seafood,97.0,19.0,1.5,0.0,250.0,50.0
+Cod,Seafood,82.0,18.0,0.7,0.0,100.0,110.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,250.0,90.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,250.0,50.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,100.0,50.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,200.0,70.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,200.0,70.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,200.0,90.0
+Orange,Fruits,47.0,0.9,0.1,12.0,250.0,90.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,200.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,150.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,250.0,70.0
+Apple,Fruits,52.0,0.3,0.2,14.0,200.0,70.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,150.0,90.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,250.0,110.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,250.0,110.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,200.0,90.0
+Egg,Dairy,155.0,13.0,11.0,1.1,200.0,90.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,250.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,250.0,110.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,150.0,70.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,250.0,50.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,150.0,70.0
+Crab,Seafood,97.0,19.0,1.5,0.0,150.0,90.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,200.0,110.0
+Apple,Fruits,52.0,0.3,0.2,14.0,250.0,50.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,100.0,50.0
+Crab,Seafood,97.0,19.0,1.5,0.0,200.0,70.0
+Orange,Fruits,47.0,0.9,0.1,12.0,250.0,110.0
+Crab,Seafood,97.0,19.0,1.5,0.0,100.0,50.0
+Egg,Dairy,155.0,13.0,11.0,1.1,150.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,250.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,100.0,50.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,250.0,70.0
+Banana,Fruits,89.0,1.1,0.3,23.0,150.0,90.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,250.0,70.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,250.0,90.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,200.0,90.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,200.0,70.0
+Orange,Fruits,47.0,0.9,0.1,12.0,150.0,50.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,250.0,70.0
+Milk,Dairy,42.0,3.4,1.0,5.0,150.0,90.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,150.0,90.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,100.0,110.0
+Milk,Dairy,42.0,3.4,1.0,5.0,250.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,150.0,70.0
+Egg,Dairy,155.0,13.0,11.0,1.1,100.0,70.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,100.0,90.0
+Orange,Fruits,47.0,0.9,0.1,12.0,250.0,50.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,150.0,110.0
+Egg,Dairy,155.0,13.0,11.0,1.1,250.0,110.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,200.0,50.0
+Egg,Dairy,155.0,13.0,11.0,1.1,100.0,50.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,100.0,70.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,250.0,70.0
+Chicken Breast,Meat & Poultry,165.0,31.0,3.6,0.0,200.0,90.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,200.0,110.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,100.0,70.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,200.0,70.0
+Butter,Dairy,717.0,0.9,81.0,0.1,150.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,250.0,50.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,200.0,70.0
+Egg,Dairy,155.0,13.0,11.0,1.1,200.0,70.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,100.0,110.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,250.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,150.0,50.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,200.0,90.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,200.0,70.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,250.0,110.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,150.0,110.0
+Crab,Seafood,97.0,19.0,1.5,0.0,250.0,70.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,200.0,110.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,200.0,90.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,250.0,50.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,150.0,90.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,100.0,70.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,100.0,50.0
+Apple,Fruits,52.0,0.3,0.2,14.0,100.0,70.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,100.0,90.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,100.0,50.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,200.0,110.0
+Butter,Dairy,717.0,0.9,81.0,0.1,250.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,100.0,110.0
+Cheddar Cheese,Dairy,402.0,25.0,33.0,1.3,250.0,50.0
+Strawberry,Fruits,32.0,0.7,0.3,7.0,100.0,50.0
+Milk,Dairy,42.0,3.4,1.0,5.0,250.0,110.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,150.0,70.0
+Milk,Dairy,42.0,3.4,1.0,5.0,150.0,110.0
+Cucumber,Vegetables,15.0,0.7,0.1,3.0,100.0,110.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,250.0,90.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,200.0,50.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,100.0,50.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,200.0,50.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,250.0,70.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,200.0,110.0
+Banana,Fruits,89.0,1.1,0.3,23.0,100.0,70.0
+Shrimp,Seafood,99.0,24.0,0.3,0.0,200.0,70.0
+Orange,Fruits,47.0,0.9,0.1,12.0,100.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,100.0,70.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,100.0,110.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,200.0,110.0
+Cod,Seafood,82.0,18.0,0.7,0.0,150.0,70.0
+Grapes,Fruits,69.0,0.7,0.2,18.0,100.0,110.0
+Tomato,Vegetables,18.0,0.9,0.2,4.0,100.0,110.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,200.0,50.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,100.0,110.0
+Milk,Dairy,42.0,3.4,1.0,5.0,200.0,110.0
+Pizza,Fast Food,266.0,11.0,10.0,33.0,100.0,70.0
+Tuna,Seafood,144.0,32.0,1.0,0.0,250.0,110.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,100.0,50.0
+Turkey,Meat & Poultry,135.0,29.0,1.1,0.0,150.0,70.0
+Milk,Dairy,42.0,3.4,1.0,5.0,100.0,90.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,150.0,110.0
+Banana,Fruits,89.0,1.1,0.3,23.0,250.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,250.0,90.0
+Yogurt,Dairy,59.0,10.0,0.4,3.6,250.0,110.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,250.0,110.0
+Salmon,Seafood,208.0,20.0,13.0,0.0,100.0,70.0
+Carrot,Vegetables,41.0,0.9,0.2,10.0,200.0,70.0
+Lamb,Meat & Poultry,294.0,25.0,21.0,0.0,200.0,110.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,250.0,90.0
+Apple,Fruits,52.0,0.3,0.2,14.0,200.0,90.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,150.0,50.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,150.0,90.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,200.0,110.0
+Beef Steak,Meat & Poultry,250.0,26.0,17.0,0.0,150.0,90.0
+Cod,Seafood,82.0,18.0,0.7,0.0,250.0,90.0
+Burger,Fast Food,295.0,17.0,14.0,31.0,250.0,110.0
+Crab,Seafood,97.0,19.0,1.5,0.0,150.0,70.0
+Apple,Fruits,52.0,0.3,0.2,14.0,200.0,50.0
+Fried Chicken,Fast Food,246.0,19.0,14.0,10.0,100.0,70.0
+Pork Chop,Meat & Poultry,231.0,25.0,14.0,0.0,250.0,110.0
+Cod,Seafood,82.0,18.0,0.7,0.0,200.0,50.0
+Orange,Fruits,47.0,0.9,0.1,12.0,200.0,110.0
+Orange,Fruits,47.0,0.9,0.1,12.0,100.0,50.0
+Spinach,Vegetables,23.0,2.9,0.4,4.0,200.0,50.0
+French Fries,Fast Food,312.0,3.4,15.0,41.0,150.0,110.0
+Hot Dog,Fast Food,290.0,11.0,25.0,2.0,150.0,90.0
+Banana,Fruits,89.0,1.1,0.3,23.0,150.0,70.0
+Broccoli,Vegetables,34.0,2.8,0.4,7.0,250.0,110.0
